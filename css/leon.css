@@ -509,6 +509,9 @@ margin-top: 40px;
     text-decoration: none;
     color: var(--main-color);
 }
+@media(max-width:400px){
+    .contact .end a {font-size: 30px;}
+}
 
 .contact .end p i {
     margin: 5px;
